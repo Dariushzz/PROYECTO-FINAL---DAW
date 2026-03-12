@@ -2,8 +2,6 @@
 **Dariush Lotfi**
 **2n DAW**  
 
-### 1. Idea de proyecto 
-
 ### 1. Idea de proyecto
 
 Mi idea al principio era crear la página web para la lampistería de mi padre pero es cierto que no cumpliría con los requisitos mínimos del proyecto (consultar a una API, conexión a bbdd). Por eso finalmente he decidido hacer una aplicación que utilice la API de TMDB (The Movie Database) https://www.themoviedb.org/
