@@ -17,6 +17,10 @@ También tener una lista de pendientes de ver.
 
 Con este proyecto podré aprender a crear una aplicación útil y funcional full stack desde la conexión a base de datos, backend y frontend.
 
+
+-----
+
+
 ### 2. Requisitos funcionales
 
 **Registro y login:** El usuario podrá registrarse con email y contraseña e iniciar sesión. Las contraseñas se almacenan con hash seguro.
@@ -35,10 +39,17 @@ Con este proyecto podré aprender a crear una aplicación útil y funcional full
 
 **Recomendaciones con IA:** Un agente IA que recomiende películas según los gustos del usuario o a partir de una película concreta.
 
+-----
+
+
 ### 3. Mockup
 
  ![Foto](./capturas/mockup.png)
  ![Foto](./capturas/mockup2.png)
+
+ 
+-----
+
 
 ### 4. Arquitectura y tecnologia
 
